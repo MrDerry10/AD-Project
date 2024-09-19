@@ -26,3 +26,6 @@ This project involves setting up an Active Directory home lab with Splunk, Kali 
 - PowerShell: For scripting and managing tasks within the Windows Server environment.
 
 ## Steps
+
+![Active Directory lab](https://github.com/user-attachments/assets/424bfa0c-be4f-4fa7-b749-2cbae6853ad5)
+
