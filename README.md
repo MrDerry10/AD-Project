@@ -17,16 +17,16 @@ This project involves setting up an Active Directory home lab with Splunk, Kali 
 
 ### Tools Used
 
-- Windows Server: For setting up and managing the Active Directory domain environment.
-- Kali Linux: For conducting the brute-force attack and other penetration testing tasks.
-- Splunk: For logging, monitoring, and analyzing security events.
-- Atomic Red Team: For simulating real-world attack scenarios within the environment.
-- VirtualBox: For creating and managing virtual machines for the home lab setup.
-- Active Directory Users and Computers (ADUC): For managing users and groups in the Active Directory environment.
-- PowerShell: For scripting and managing tasks within the Windows Server environment.
+- **Windows Server:** For setting up and managing the Active Directory domain environment.
+- **Kali Linux:** For conducting the brute-force attack and other penetration testing tasks.
+- **Splunk:** For logging, monitoring, and analyzing security events.
+- **Atomic Red Team:** For simulating real-world attack scenarios within the environment.
+- **VirtualBox:** For creating and managing virtual machines for the home lab setup.
+- **Active Directory Users and Computers (ADUC):** For managing users and groups in the Active Directory environment.
+- **PowerShell:** For scripting and managing tasks within the Windows Server environment.
 
 ## Steps
-below are some screenshots of the different machines created 
+*below are some screenshots of the different machines created.* 
 ![Active Directory lab](https://github.com/user-attachments/assets/424bfa0c-be4f-4fa7-b749-2cbae6853ad5)
 ![Screenshot 2024-09-19 111113](https://github.com/user-attachments/assets/fa712e52-dbda-41d2-bc77-ba6475022c4f)
 ![Screenshot 2024-09-19 112153](https://github.com/user-attachments/assets/b3f59594-f1d4-40db-9f14-cb4ef3eb9590)
